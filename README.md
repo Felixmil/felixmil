@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find my resume [here](resume-en.md) ([french version](resume-fr.md)
+
 <!--
 **Felixmil/felixmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
