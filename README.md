@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-You can find my resume [here](resume-fr.md)
+My name is Felix MIL. I'm an R and python enthusiast that codes at work and sometimes at home for fun and dreams about working at RStudio one day.
+
+I'm the creator of :game_die:[RollR](https://github.com/Felixmil/rollR), an unsignificant R and badly written package that let you throw dices in a roleplaying-games-fashion way.
+
+You can find my resume [here](resume-fr.md).
 
 <!--
 **Felixmil/felixmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
