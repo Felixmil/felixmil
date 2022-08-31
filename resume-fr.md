@@ -1,27 +1,26 @@
-# Resume - FR
+# CV de Félix MIL
 
 ## Experiences
 ### Data Scientist
 Stago - Dpt. R&D Insrument | Paris
 Octobre 2018 - Aujourd’hui
-
--  Developpement d’applications: design, réalisation et déploiement d’applications internes *(R Shiny)*. Mise en place et maintenance de l’infrastructure *(Linux)*. 
-- Traitement des données: Création et maintenance de flux de données *(pySpark, SQL)* dans un contexte  « big data »  *(Databricks, Hadoop)*. 
-- Analyses et investigations: extraction, transformation *(tidyverse, pandas)* de données techniques pour répondre à des problématiques business et scientifiques *(Dashboards, Rapports dynamiques)*.
-- Modélisation et Algorithmie: conception, parametrage et evaluation de modèles à des fins d’amélioration, sécurisation ou d’innovation.
-
+- Développement d’applications : design, réalisation et déploiement d’applications internes *(R Shiny)*. Mise en place et maintenance de l’infrastructure *(Linux)*. 
+- Traitement des données : création et maintenance de flux de données *(pySpark, SQL)* dans un contexte « big data » *(Databricks, Hadoop)*. 
+- Analyses et investigations : extraction, transformation *(tidyverse, pandas)* de données pour répondre à des problématiques business et scientifiques *(Dashboards, Rapports dynamiques)*.
+- Modélisation et Algorithmie : conception, paramétrage et évaluation de modèles à des fins d’amélioration, sécurisation ou d’innovation.
+- 
 ### Responsable d’étude
 Stago - Dpt. Recherche Prospective | Paris
 septembre 2016 - septembre 2018
 
--   Évaluation du potentiel clinique d’une technologie prototype par l’approche statistique,
--   Design des expérimentations et analyse des résultats pour l’évaluation du potentiel clinique d’un principe actif en partenariat avec un industriel pharmaceutique.
+- Évaluation du potentiel clinique d’une technologie prototype par l’approche statistique,
+- Design des expérimentations et analyse des résultats pour l’évaluation du potentiel clinique d’un principe actif en partenariat avec un industriel pharmaceutique.
 
 ### Stage: Responsable d’étude
 Stago - Dpt. R&D Immunologie | Paris
 mars 2016 - septembre 2016
 
-Conception, développement et evaluation d’un test d’immunoagglutination par fixation d’anticorps nanobody sur microsphère de latex.
+Conception, développement et évaluation d’un test d’immunoagglutination par fixation d’anticorps nanobody sur microsphère de latex.
 
 ### Stage: Ingénieur d’étude
 Microbiome -  Amsterdam
