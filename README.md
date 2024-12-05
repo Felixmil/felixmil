@@ -12,6 +12,12 @@
 I'm Felix, a **data scientist** with experience in **software development**, as well as a background in **biotechnology**. 
 I currently work at [**esqlabs**](https://github.com/esqLABS) as a **Software Developer** and contribute to [**Open Systems Pharmacology**](https://github.com/Open-Systems-Pharmacology).
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixmil&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixmil&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felixmil&theme=github_dark)
+
 <!--
 # Now
 
