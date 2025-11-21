@@ -39,7 +39,7 @@ septembre 2014 - septembre 2016
 DataCamp  
 avr. 2019  
 
-## TOEIC: Score 965
+### TOEIC: Score 965
 févr. 2015  
 
 ## Compétences
