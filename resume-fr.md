@@ -4,10 +4,11 @@
 ### Data Scientist
 Stago - Dpt. R&D Insrument | Paris  
 Octobre 2018 - Aujourd’hui  
+
 - Développement d’applications : design, réalisation et déploiement d’applications internes *(R Shiny)*. Mise en place et maintenance de l’infrastructure *(Linux)*. 
 - Traitement des données : création et maintenance de flux de données *(pySpark, SQL)* dans un contexte « big data » *(Databricks, Hadoop)*. 
 - Analyses et investigations : extraction, transformation *(tidyverse, pandas)* de données pour répondre à des problématiques business et scientifiques *(Dashboards, Rapports dynamiques)*.
-- Modélisation et Algorithmie : conception, paramétrage et évaluation de modèles à des fins d’amélioration, sécurisation ou d’innovation.
+- Modélisation et Algorithmie : conception, paramétrage et évaluation de modèles à des fins d’amélioration, sécurisation ou d’innovation.  
 
 ### Responsable d’étude
 Stago - Dpt. Recherche Prospective | Paris  
