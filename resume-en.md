@@ -1,76 +1,78 @@
 # Felix MIL's Resume
 
-## Experiences
+## Contact
+- Website: [felixmil.com](https://felixmil.com)
+- Location: Angers, France
+- LinkedIn: [felix-mil](https://www.linkedin.com/in/felix-mil/)
+- GitHub: [Felixmil](https://github.com/Felixmil)
+
+## Profile
+*Scientific Software Engineer · R · PBPK*
+
+Senior scientific software engineer building the R packages and pipelines that let PBPK and QSP modellers focus on the science, not the tooling.
+
+## Experience
+### Scientific Software Engineer
+ESQlabs | Remote  
+March 2023 - Today
+- **[esqlabsR](https://github.com/esqLABS/esqlabsR)**: core maintainer of the open-source R package that automates PBPK modelling workflows, including its redesign around JSON project files instead of Excel.
+- **[osp.snapshots](https://github.com/esqLABS/osp.snapshots)**: author of the open-source R package that loads, builds and edits PK-Sim projects from code. Talk at the OSP Community Conference 2025.
+- **Open Systems Pharmacology**: maintainer across the open-source OSP R ecosystem *(ospsuite, rSharp, OSPSuite.Plots)*: reusable CI/CD, releases and R-Universe distribution.
+
 ### Data Scientist
-Stago - Instrument R&D Dpt.  | Paris  
-October 2018 - Today  
+Stago - Instrument R&D | Paris  
+October 2018 - December 2022
+- Built and deployed internal *R Shiny* applications and the *Linux* infrastructure behind them.
+- Built data pipelines *(PySpark, SQL)* on *Databricks* for instrument data.
+- Delivered analyses, dashboards and dynamic reports, and designed models for product improvement and innovation.
 
-- Application development: design, implementation and deployment of internal applications (**R Shiny**). Infrastructure implementation and maintenance (Linux, Docker). 
-- Data processing: creation and maintenance of data pipeline (**pySpark**, **SQL**) in a big data context (**Databricks**, **Hadoop**). 
-- Analysis and investigation: extraction, transformation (**tidyverse**, **pandas**) of data to answer business and scientific problems (**Dashboards**, **Dynamic reports**).
-- Modelling and Algorithms: design, parameterisation and evaluation of models for improvement, security or innovation purposes.
+### Research Scientist
+Stago - Exploratory Research | Paris  
+September 2016 - September 2018
+- Statistical evaluation of the clinical potential of a prototype technology and of an active ingredient, with a pharmaceutical partner.
 
-### Study manager
-Stago - Prospective Research Dpt. | Paris  
-September 2016 - September 2018  
+### R&D Intern, Immunoassay Development
+Stago - Immunoassay R&D | Paris  
+March 2016 - September 2016
 
-- Evaluation of the clinical potential of a prototype technology using a statistical approach,
-- Experimental Design and analysis for the evaluation of the clinical potential of an active ingredient in partnership with a pharmaceutical company.
-
-### Internship: Research Manager
-Stago - Immunology R&D Dpt. | Paris  
-March 2016 - September 2016  
-
-Design, development and evaluation of an immunoagglutination assay by fixation of **nanobodies** on latex microsphere.
-
-### Internship: Research Engineer
+### R&D Intern, IVD Validation & CE Marking
 Microbiome | Amsterdam  
-March 2015 - August 2015  
+March 2015 - August 2015
 
-Design, execution and analysis of tests and technical documentation for the **CE marking** of an in vitro diagnostic kit.
-
-## Cursus
+## Education
 ### Master Biotechnologies
 Institut Supérieur de la Santé et des Bioproduits d'Angers, University of Angers  
-September 2014 - September 2016  
+September 2014 - September 2016
 
-## Certifications
-
-### Data Scientist with R course
-DataCamp
-Apr. 2019
-
-### TOEIC: Score 965
-Feb 2015
+## Languages
+- French: Native
+- English: Professional (TOEIC 965)
 
 ## Skills
-### Programming Languages
-**R**, Python, SQL
+### Languages
+R, Python, SQL
 
-### Big Data
-pySpark, Hadoop, Oozie, Azure, Databricks
+### R engineering
+R6, testthat, Shiny, Quarto, pkgdown, renv
 
-### Automatic Applications & Reports
-**Shiny**, **Quarto**, Jupyter Notebooks
+### Pharmacometrics
+OSP Suite (PK-Sim, MoBi), PBPK
 
-### Visualisation
-**ggplot2**, plotly, Tableau, PowerBI
+### Data platforms
+Spark, Databricks, Azure
 
-### Statistics
-Hypothesis testing, Regression, Classification
-
-### Collaboration
-**Git**, Github, Sharepoint, Office 365
+### DevOps & AI
+GitHub Actions, R-Universe, Linux, Claude Code
 
 ## Interests
-### Sports in Nature
-Trail, Bouldering, Hiking, Mountain biking
+### Outdoors
+Trail, bouldering, hiking, mountain biking
 
 ### Games
-Board Games, Action Figures, Cards, Video
+Board games, miniatures, cards, video games
 
 ### Music
-Bass, Guitar
+Bass, guitar
 
 ### Cooking
 Italian, Japanese

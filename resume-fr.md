@@ -1,76 +1,78 @@
 # CV de Félix MIL
 
-## Experiences
+## Contact
+- Site web : [felixmil.com](https://felixmil.com)
+- Localisation : Angers, France
+- LinkedIn : [felix-mil](https://www.linkedin.com/in/felix-mil/)
+- GitHub : [Felixmil](https://github.com/Felixmil)
+
+## Profil
+*Ingénieur logiciel scientifique · R · PBPK*
+
+Ingénieur logiciel scientifique senior : je conçois les packages R et pipelines qui permettent aux modélisateurs PBPK et QSP de se concentrer sur la science, pas sur l’outillage.
+
+## Expériences
+### Ingénieur logiciel scientifique
+ESQlabs | Télétravail  
+mars 2023 - Aujourd’hui
+- **[esqlabsR](https://github.com/esqLABS/esqlabsR)** : mainteneur principal de ce package R open source qui automatise les workflows de modélisation PBPK, dont sa refonte autour de fichiers projet JSON à la place d’Excel.
+- **[osp.snapshots](https://github.com/esqLABS/osp.snapshots)** : auteur de ce package R open source qui charge, construit et modifie des projets PK-Sim par le code. Présenté à la conférence de la communauté OSP 2025.
+- **Open Systems Pharmacology** : mainteneur de l’écosystème R open source d’OSP *(ospsuite, rSharp, OSPSuite.Plots)* : CI/CD réutilisable, publication des versions et distribution via R-Universe.
+
 ### Data Scientist
-Stago - Dpt. R&D Insrument | Paris  
-Octobre 2018 - Aujourd’hui  
+Stago - R&D Instruments | Paris  
+octobre 2018 - décembre 2022
+- Conception et déploiement d’applications internes *R Shiny* et de l’infrastructure *Linux* associée.
+- Pipelines de données *(PySpark, SQL)* sur *Databricks* pour les données des instruments.
+- Analyses, dashboards et rapports dynamiques, et conception de modèles pour l’amélioration et l’innovation produit.
 
-- Développement d’applications : design, réalisation et déploiement d’applications internes *(R Shiny)*. Mise en place et maintenance de l’infrastructure *(Linux)*. 
-- Traitement des données : création et maintenance de flux de données *(pySpark, SQL)* dans un contexte « big data » *(Databricks, Hadoop)*. 
-- Analyses et investigations : extraction, transformation *(tidyverse, pandas)* de données pour répondre à des problématiques business et scientifiques *(Dashboards, Rapports dynamiques)*.
-- Modélisation et Algorithmie : conception, paramétrage et évaluation de modèles à des fins d’amélioration, sécurisation ou d’innovation.  
+### Ingénieur de recherche
+Stago - Recherche exploratoire | Paris  
+septembre 2016 - septembre 2018
+- Évaluation statistique du potentiel clinique d’une technologie prototype et d’un principe actif, avec un partenaire pharmaceutique.
 
-### Responsable d’étude
-Stago - Dpt. Recherche Prospective | Paris  
-septembre 2016 - septembre 2018  
+### Stage R&D – Développement d’immunoessais
+Stago - R&D Immunoessais | Paris  
+mars 2016 - septembre 2016
 
-- Évaluation du potentiel clinique d’une technologie prototype par l’approche statistique,
-- Design des expérimentations et analyse des résultats pour l’évaluation du potentiel clinique d’un principe actif en partenariat avec un industriel pharmaceutique.
+### Stage R&D – Validation DIV et marquage CE
+Microbiome | Amsterdam  
+mars 2015 - août 2015
 
-### Stage: Responsable d’étude
-Stago - Dpt. R&D Immunologie | Paris  
-mars 2016 - septembre 2016  
-
-Conception, développement et évaluation d’un test d’immunoagglutination par fixation d’anticorps nanobody sur microsphère de latex.
-
-### Stage: Ingénieur d’étude
-Microbiome -  Amsterdam  
-mars 2015 - août 2015  
-
-Design, réalisation et analyse des essais et de la documentation technique pour le marquage CE d’un kit de diagnostic in vitro.
-
-## Cursus
+## Formation
 ### Master Biotechnologies
 Institut Supérieur de la Santé et des Bioproduits d’Angers, Université d’Angers  
-septembre 2014 - septembre 2016  
+septembre 2014 - septembre 2016
 
-## Certifications
-
-### Parcours Data Scientist with R
-DataCamp  
-avr. 2019  
-
-### TOEIC: Score 965
-févr. 2015  
+## Langues
+- Français : langue maternelle
+- Anglais : professionnel (TOEIC 965)
 
 ## Compétences
-### Languages de Programmation
-R, Python, SQL  
+### Langages
+R, Python, SQL
 
-### Big Data
-pySpark, Hadoop, Oozie, Azure, Databricks
+### Ingénierie R
+R6, testthat, Shiny, Quarto, pkgdown, renv
 
-### Applications & Rapports Automatiques
-Shiny, Rmarkdown, Jupyter Notebooks
+### Pharmacométrie
+OSP Suite (PK-Sim, MoBi), PBPK
 
-### Visualisation
-ggplot2, plotly, Tableau, PowerBI
+### Plateformes de données
+Spark, Databricks, Azure
 
-### Statistiques
-Tests d’hypothèse, Regression, Classification
-
-### Collaboration
-Git, Github, Sharepoint, Office 365
+### DevOps & IA
+GitHub Actions, R-Universe, Linux, Claude Code
 
 ## Intérêts
-### Sports en Nature
-Trail, Bloc, Randonnée, Bivouac, VTT
+### Plein air
+Trail, bloc, randonnée, VTT
 
 ### Jeux
-Plateau, Figurines, Cartes, Vidéo
+Plateau, figurines, cartes, vidéo
 
 ### Musique
-Basse, Guitare
+Basse, guitare
 
 ### Cuisine
-Italienne, Japonaise
+Italienne, japonaise
